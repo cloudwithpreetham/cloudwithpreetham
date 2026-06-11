@@ -82,7 +82,7 @@ I'm a **DevOps Engineer** with **4 months** of hands-on experience, passionate a
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cloud--with--preetham-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.cloud-with-preetham.liveblog365.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cloud--with--preetham-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.cloudwithpreetham.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preetham-pereira)
 [![Email](https://img.shields.io/badge/Email-reachout.preetham@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.preetham@gmail.com)
 
