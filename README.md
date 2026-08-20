@@ -1,165 +1,86 @@
-<div align="center">
+<h1 align="center">Hi, I'm Preetham Pereira 👋</h1>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure & Automation</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Preetham%20Pereira&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+infrastructure;Automating+everything+that+can+break;CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+AWS;Turning+outages+into+observability+wins" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-pereira/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.cloudwithpreetham.in/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourcodedude)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33047084/yourcodedude)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.preetham@gmail.com)
-
-</div>
-
-<br/>
-
-## About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cloudwithpreetham&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="47%"/>
-
-I design and automate cloud infrastructure — CI/CD pipelines, containerized systems, and observable architectures built to survive production.
-
-```yaml
-role: Cloud & DevOps Engineer
-based_in: Mangaluru, Karnataka, India
-focus:
-  - Kubernetes & container orchestration
-  - CI/CD pipeline design
-  - Infrastructure as Code
-learning:
-  - AWS
-  - GitOps workflows
-philosophy: "Infrastructure is code, outages are lessons, automation is freedom."
-```
-
-<br clear="right"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetham-pereira/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio.cloudwithpreetham.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://x.com/yourcodedude"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:reachout.preetham@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## Tech Arsenal
+### 🚀 About Me
 
-<div align="center">
+I'm a DevOps Engineer focused on building scalable, automated, cloud-native infrastructure. I work across the full pipeline — from containerizing applications to deploying them on Kubernetes to instrumenting them for observability.
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,linux,bash,python,flask,prometheus,grafana&theme=dark" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<th>Category</th>
-<th>Tools</th>
-</tr>
-<tr>
-<td><b>Cloud</b></td>
-<td>AWS, Terraform, Ansible</td>
-</tr>
-<tr>
-<td><b>Containers</b></td>
-<td>Docker, Kubernetes</td>
-</tr>
-<tr>
-<td><b>CI/CD</b></td>
-<td>GitHub Actions</td>
-</tr>
-<tr>
-<td><b>Observability</b></td>
-<td>Prometheus, Grafana, OpenTelemetry</td>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td>Python, Bash, Flask</td>
-</tr>
-<tr>
-<td><b>OS</b></td>
-<td>Linux</td>
-</tr>
-</table>
+- 🔭 Currently building **containerized microservices with Kubernetes & CI/CD pipelines**
+- 🌱 Deepening my **AWS & GitOps** skills
+- 🤝 Open to collaborating on **open-source DevOps tooling & infrastructure automation**
+- 💬 Ask me about **Linux, Docker, Kubernetes, Terraform, Ansible, CI/CD & Observability**
+- 📫 Reach me at **reachout.preetham@gmail.com**
 
 ---
 
-## Featured Builds
+### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### [url-shortener](https://github.com/cloudwithpreetham/url-shortener)
-Full-stack URL shortener (Flask, Redis, Nginx) demonstrating a complete DevOps workflow — Docker, GitHub Actions CI/CD, Kubernetes deployment, and monitoring.
+**Containers & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-`Docker` `Redis` `Kubernetes` `CI/CD`
+**CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</td>
-<td width="50%">
+**Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-black?style=flat-square&logo=opentelemetry&logoColor=white)
 
-### [kubehealer](https://github.com/cloudwithpreetham/kubehealer)
-AI-powered Kubernetes debugging and auto-remediation engine, orchestrated by Temporal.
-
-`Kubernetes` `Python` `Temporal` `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [devops-90-days-challenge](https://github.com/cloudwithpreetham/devops-90-days-challenge)
-Daily notes and hands-on learnings across AWS, Linux, Docker, Kubernetes, Terraform, and CI/CD from a 90-day challenge.
-
-`AWS` `Linux` `Terraform`
-
-</td>
-<td width="50%">
-
-### [ai-bankapp](https://github.com/cloudwithpreetham/ai-bankapp)
-End-to-end DevOps project: a Spring Boot banking app with Docker, CI/CD, Kubernetes, Helm, Terraform, monitoring, GitOps, and LLM integration.
-
-`Helm` `GitOps` `Spring Boot`
-
-</td>
-</tr>
-</table>
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-## Certifications
+### 📌 Featured Projects
 
-<div align="center">
-
-[![Redis](https://img.shields.io/badge/Redis-Associate%20Cloud%20Operator-DC382D?style=flat-square&logo=redis&logoColor=white)](https://credentials.redis.io/e88010f3-c765-4ea7-8ab6-c64de5b0b027#acc.GfYTSwz8)
-[![Microsoft](https://img.shields.io/badge/Microsoft-GitHub%20Actions-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PreethamPereira-6836/40673BA93F00EAEF?sharingId=2703E2D267119192)
-[![TrainWithShubham](https://img.shields.io/badge/TrainWithShubham-Certified%20DevOps%20Engineer-2C5364?style=flat-square&logo=googlecloud&logoColor=white)](https://credentials.certdirectory.io/verify/CRD-MR6967L4)
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudwithpreetham&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithpreetham&layout=compact&theme=radical&hide_border=true" width="35%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cloudwithpreetham&theme=react-dark&hide_border=true" width="100%"/>
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| **[url-shortener](https://github.com/cloudwithpreetham/url-shortener)** | Full-stack URL shortener built to demonstrate an end-to-end DevOps workflow — Docker, GitHub Actions CI/CD, Kubernetes deployment, and monitoring | Flask, Redis, Nginx, Docker, K8s |
+| **[devops-90-days-challenge](https://github.com/cloudwithpreetham/devops-90-days-challenge)** | Daily hands-on documentation of core DevOps concepts — AWS, Linux, Docker, Kubernetes, Terraform, and CI/CD | Shell, AWS, Terraform |
+| **[devops-labs](https://github.com/cloudwithpreetham/devops-labs)** | Hands-on labs and real-world scenarios spanning Linux, Docker, Kubernetes, CI/CD, and Cloud automation | HCL, Docker, K8s |
+| **[kubehealer](https://github.com/cloudwithpreetham/kubehealer)** *(contributor)* | AI-powered Kubernetes debugging and auto-remediation tool, orchestrated by Temporal | Python, Kubernetes, Temporal |
 
 ---
 
-<div align="center">
+### 📜 Certifications
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourcodedude/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61593728240382)
+- **Redis Associate Cloud Operator** — [View Credential](https://credentials.redis.io/e88010f3-c765-4ea7-8ab6-c64de5b0b027#acc.MXDsiIvy)
+- **Microsoft Applied Skills: GitHub Actions** — [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/PreethamPereira-6836/40673BA93F00EAEF?sharingId=2703E2D267119192)
+- **DevOps Trainee — Internship/Training** — [View Credential](https://credentials.certdirectory.io/verify/CRD-MR6967L4)
 
-<img src="https://komarev.com/ghpvc/?username=cloudwithpreetham&color=00c6ff&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/cloudwithpreetham?label=Followers&style=flat-square&color=00c6ff" />
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
+### 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cloudwithpreetham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithpreetham&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudwithpreetham&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+<p align="center"><i>Infrastructure is code, outages are lessons, automation is freedom.</i></p>
