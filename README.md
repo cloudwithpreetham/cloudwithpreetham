@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Preetham**, a DevOps engineer based in Mangaluru, India.
+I'm **Preetham**, a DevOps engineer based in Bengaluru, Karnataka, India.
 
 I like turning messy deployments into pipelines that just run — Docker, Kubernetes, Terraform, CI/CD, the works.
 
